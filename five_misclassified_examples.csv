@@ -1,0 +1,6 @@
+Original_Text,Cleaned_Text,Actual_Sentiment,Predicted_Sentiment
+@SouthwestAir OMG OMG OMG !!! I JUST DID!!,omg omg omg just did,neutral,negative
+@SouthwestAir @JulGood1 she was traveling with me the one that got miscommunicated with,traveling got miscommunicated,negative,neutral
+"@JetBlue Although it wasn't totally the answer I was looking for, I appreciate the prompt response.",wasn t totally answer looking appreciate prompt response,positive,negative
+@JetBlue Just a thought!,just thought,neutral,negative
+@AmericanAir that's what is on my ticket and my confirmation email. Anything else?,s ticket confirmation email,neutral,negative
