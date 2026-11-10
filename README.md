@@ -1,4 +1,4 @@
-# OIBSIP-DataAnalystics-L4-Sentiment-Analysis-
+# OIBSIP-DataAnalystics-Task4-Sentiment-Analysis-
 # Task 4: Sentiment Analysis Using Machine Learning
 
 ## Project Overview
